@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Local databases
+*.sqlite
+*.sqlite3
+
+# Local cache
+statcast_cache/
+data_cache/
+
+# Environment variables
+.env
